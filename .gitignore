@@ -19,6 +19,9 @@ __pycache__/
 .pytype/
 .cache/
 
+chatbot.db-shm
+chatbot.db-wal
+
 # Test and coverage output
 .coverage
 .coverage.*

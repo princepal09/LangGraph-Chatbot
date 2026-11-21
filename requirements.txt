@@ -4,3 +4,4 @@ langchain-ollama
 python-dotenv
 langchain-groq
 streamlit
+langgraph-checkpoint-sqlite
